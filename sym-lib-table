@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "AudioJack_4pin")(type "KiCad")(uri "/home/christoph/ext1TB/projekte/git-DiffProbe_v2/AudioJack_4pin.kicad_sym")(options "")(descr ""))
+)

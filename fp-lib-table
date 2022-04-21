@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "USB_PCB_footprint")(type "KiCad")(uri "${KIPRJMOD}/USB_PCB_footprint")(options "")(descr ""))
+  (lib (name "CUI_SJ-4351X-SMT")(type "KiCad")(uri "${KIPRJMOD}/CUI_SJ-4351X-SMT.pretty")(options "")(descr ""))
+)
